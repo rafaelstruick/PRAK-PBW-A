@@ -12,7 +12,7 @@ Langkah-Langkah:
     <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
 
 4. Buat Folder Prak PBW di VScode dan Github juga. Setelah itu didalam VScode di PRAK PBW buat lagi folder, praktikum-1. |
-   
+   <img width="291" height="155" alt="Image" src="https://github.com/user-attachments/assets/0c0240c3-0183-41ae-a2bf-dc6d1ccbed5d" />
 
 5. Kemudian, hubungkan link folder yang telah dibuat di github ke VScode
  <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/daddc6c5-45a9-4fb1-8620-30900664dcb4" />
