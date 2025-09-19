@@ -12,7 +12,7 @@ Langkah-Langkah:
     <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
 
 4. Kemudian, hubungkan link folder yang telah dibuat di github ke VScode
-   <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
+ <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/daddc6c5-45a9-4fb1-8620-30900664dcb4" />
 
 5. Lalu, jika kita ingin menggabungkan semua file didalam folder kita bisa memberikan perintah
    <img width="878" height="90" alt="Image" src="https://github.com/user-attachments/assets/78ab3fed-e746-4a69-ae92-bccdb855b651" />
