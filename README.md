@@ -18,8 +18,8 @@ Langkah-Langkah:
   <img width="715" height="69" alt="Image" src="https://github.com/user-attachments/assets/7cc575d6-9b12-4523-9e0f-8e1fb8407c0c" />
 
 6. Kemudian jika ingin menyimpan data pada repository jika terjadi kesalahan kita bisa melakukan
-   <img width="838" height="82" alt="Image" src="https://github.com/user-attachments/assets/57f59f2b-7e3f-4990-a7fd-c45ce3a7d773" />
-
+ <img width="743" height="128" alt="Image" src="https://github.com/user-attachments/assets/0dfe3a8a-566b-47c0-85e8-6fda559d506a" />
+ 
 7. Setelah itu jika ingin melakukan brach, kita terlebih dahulu melakukan perintah
    <img width="763" height="79" alt="Image" src="https://github.com/user-attachments/assets/d0409977-66cb-45de-93db-01a5e56fb610" />
 
